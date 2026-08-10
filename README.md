@@ -25,7 +25,7 @@ Praticar os principais conceitos do Módulo 01:
 1. Certifique-se de ter o [Node.js](https://nodejs.org/) instalado.
 2. Clone este repositório e acesse a pasta do projeto:
    ```bash
-   git clone <link-do-repositorio>
+   git clone https://github.com/geroneiiantsch/Mini_Projeto_SCTEC.git
    cd biblioteca-js
    ```
 3. Instale as dependências:
